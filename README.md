@@ -8,14 +8,14 @@ This widget displays contribution scale, structure, and stability. Most prefer t
 
 > GitHub Banner 700 × 200
 
-![Comprehensive Stats](https://githubcard.com/Cactusinhand.svg?d=5CRSzv6q)
+[![Comprehensive Stats](https://githubcard.com/Cactusinhand.svg?d=5CRSzv6q)](https://githubcard.com/)
 
 ### Tips 02 — Streak widget
 The Streak widget displays consecutive contribution days. It is typically used to showcase user activity levels and contribution frequency.
 
 > GitHub Banner 700 × 200
 
-![Streak widget](https://githubcard.com/Cactusinhand.svg?d=12ZUzCee)
+[![Streak widget](https://githubcard.com/Cactusinhand.svg?d=12ZUzCee)](https://githubcard.com/)
 
 ### Tips 03 — Language widget
 The Language widget displays the primary programming languages used. It showcases coding habits and tech stack.
@@ -25,13 +25,13 @@ Available in various styles like Ranked Bar, Stacked Bar, and Donut.
 
 > GitHub Compact 340 × 200
 
-![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=bVtJArOK)
+[![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=bVtJArOK)](https://githubcard.com/)
 
 - Ranked Bar style:
 
 > GitHub Compact 340 × 200
 
-![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Ns12B7WC)
+[![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Ns12B7WC)](https://githubcard.com/)
 
 
 ### Tips 04 — TopRepo widget
@@ -41,19 +41,19 @@ The TopRepo widget displays your most popular repositories. It showcases project
 
 > Minimal 800 × 400
 
-![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Vuf2hBVG)
+[![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Vuf2hBVG)](https://githubcard.com/)
 
 - Grid style:
 
 > Minimal 800 × 400
 
-![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=h46RSSLC)
+[![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=h46RSSLC)](https://githubcard.com/)
 
 - Compact style:
 
 > GitHub Compact 340 × 200
 
-![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Tu8kwvLx)
+[![Cactusinhand-card](https://githubcard.com/Cactusinhand.svg?d=Tu8kwvLx)](https://githubcard.com/)
 
 ### Tips 05 — Not Just for README
 Don't hide beautiful cards in READMEs only. Embed code in personal blogs, Notion resumes, or portfolios. Show your heatmap and skills to potential collaborators or recruiters anywhere.
@@ -64,7 +64,7 @@ Share your Profile link directly to Twitter/X or Reddit to automatically show a 
 ### Tips 07 - You could compose them together!
 > OG Standard (1200 × 630)
 
-![GitHub Card](https://githubcard.com/Cactusinhand.svg?d=JkKGFDBE&nocache=1)
+[![GitHub Card](https://githubcard.com/Cactusinhand.svg?d=JkKGFDBE&nocache=1)](https://githubcard.com/)
 
 
 <!-- open source [git.git](https://git.kernel.org/pub/scm/git/git.git/) is [here](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=lilinchao) -->
