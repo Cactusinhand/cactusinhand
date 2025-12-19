@@ -8,7 +8,7 @@ This widget displays contribution scale, structure, and stability. Most prefer t
 
 > GitHub Banner 700 × 200
 
-[![Comprehensive Stats](https://githubcard.com/Cactusinhand.svg?d=5CRSzv6q)](https://githubcard.com/)
+[![Comprehensive Stats](https://githubcard.com/Cactusinhand.svg?d=WlpgQ2Pl)](https://githubcard.com/)
 
 ### Tips 02 — Streak widget
 The Streak widget displays consecutive contribution days. It is typically used to showcase user activity levels and contribution frequency.
